@@ -3,7 +3,7 @@
 /*                                                                                             */
 /*                The robot car explore in a straight line and avoid obsticale                 */                                                         
 /*                                                                                             */
-/*                           le 02/10/2018 par ADDI Mohammed Said                              */
+/*                           In 02/10/2018 by  ADDI Mohammed Said                              */
 /*                                                                                             */
 /*                                                                                             */
 /***********************************************************************************************/
